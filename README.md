@@ -1,3 +1,5 @@
+<img src="VLCODE.png" alt="logo" width="150">
+
 # Auth API (Spring Security + JWT)
 
 API de Autenticação Robusta desenvolvida com as melhores práticas de segurança do mercado (Stateless, RBAC).
